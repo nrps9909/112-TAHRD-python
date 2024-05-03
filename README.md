@@ -11,7 +11,7 @@
 
 ## 📝 作業連結區
 [📄 hw01 作業連結](https://youtu.be/M0zquROZXMg)<br>
-[📄 hw02 作業連結](https://hackmd.io/@yillkid/H1gWjpwR6/https%3A%2F%2Fhackmd.io%2F%40yillkid%2FS1z501O0T)<br>
+[📄 hw02 作業連結](https://hackmd.io/@nrps9909/BJjYdbffA)<br>
 [📄 hw03 作業連結]()<br>
 [📄 hw04 作業連結]()<br>
 
